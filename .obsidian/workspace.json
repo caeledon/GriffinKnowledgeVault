@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "instructions/README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "README"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md",
+                "file": "instructions/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Index"
+              "title": "Вміст README"
             }
           }
         ],
@@ -171,8 +171,8 @@
   },
   "active": "4fe83935892dd588",
   "lastOpenFiles": [
-    "banks/banks_README.md",
     "Index.md",
+    "banks/banks_README.md",
     "instructions/Index.md",
     "instructions/Griffin_Work_Instructions.md",
     "GriffinKnowledgeVault",
