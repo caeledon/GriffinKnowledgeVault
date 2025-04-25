@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instructions/Griffin_Work_Instructions.md",
-                "mode": "preview",
+                "file": "Index.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Griffin_Work_Instructions"
+              "title": "Index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instructions/Griffin_Work_Instructions.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Griffin_Work_Instructions"
+              "title": "Зворотні посилання для Index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instructions/Griffin_Work_Instructions.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Griffin_Work_Instructions"
+              "title": "Вихідні посилання з Index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instructions/Griffin_Work_Instructions.md",
+                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Griffin_Work_Instructions"
+              "title": "Вміст Index"
             }
           }
         ],
@@ -171,9 +171,10 @@
   },
   "active": "4fe83935892dd588",
   "lastOpenFiles": [
-    "Index.md",
-    "instructions/Griffin_Work_Instructions.md",
     "banks/banks_README.md",
+    "Index.md",
+    "instructions/Index.md",
+    "instructions/Griffin_Work_Instructions.md",
     "GriffinKnowledgeVault",
     "banks/JP_Morgan.md.md",
     "templates/Bank_Profile.md",

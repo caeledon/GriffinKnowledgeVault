@@ -24,4 +24,5 @@
 - [[templates/Risk_Report]] – Шаблон ризик-аналізу
 - [[reference/Regulators_EU]] – Регулятори країн ЄС
 - [[reference/Regulators_Global]] – Регулятори інших країн
+- [[instructions/Griffin_Work_Instructions]] – Стандарти складання досьє та аналітики
 - [[instructions/README]] – Основні правила GPTs
