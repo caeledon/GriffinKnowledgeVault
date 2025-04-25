@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0924d9553565ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
             "id": "4fe83935892dd588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "banks/banks_README.md",
-                "mode": "source",
-                "source": false
+                "file": "instructions/Griffin_Work_Instructions.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "banks_README"
+              "title": "Griffin_Work_Instructions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "banks/banks_README.md",
+                "file": "instructions/Griffin_Work_Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для banks_README"
+              "title": "Зворотні посилання для Griffin_Work_Instructions"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "banks/banks_README.md",
+                "file": "instructions/Griffin_Work_Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з banks_README"
+              "title": "Вихідні посилання з Griffin_Work_Instructions"
             }
           },
           {
@@ -143,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -157,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "banks/banks_README.md",
+                "file": "instructions/Griffin_Work_Instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст banks_README"
+              "title": "Вміст Griffin_Work_Instructions"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,11 +169,12 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "345644a4d64e42d9",
+  "active": "4fe83935892dd588",
   "lastOpenFiles": [
-    "GriffinKnowledgeVault",
     "Index.md",
+    "instructions/Griffin_Work_Instructions.md",
     "banks/banks_README.md",
+    "GriffinKnowledgeVault",
     "banks/JP_Morgan.md.md",
     "templates/Bank_Profile.md",
     "templates/Risk_Report.md",
