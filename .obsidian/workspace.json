@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "banks/banks_README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "banks_README"
             }
           }
         ]
@@ -179,24 +179,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "345644a4d64e42d9",
+  "active": "1293e66de216968d",
   "lastOpenFiles": [
+    "models/README.md",
+    "instructions/README.md",
+    "instructions/Griffin_Work_Instructions.md",
+    "banks/banks_README.md",
+    "Great_Idea_Summary_rus.md",
     "Test.md",
     "Index.md",
     "reference/ЕС_Национальные_Банковские_Регуляторы.md",
     "reference/Нац_Банковские_Регуляторы_Дополненный.md",
-    "Great_Idea_Summary_rus.md",
     "README.md",
     "Griffin_Architecture_Plan_v1.0_rus.md",
-    "instructions/Griffin_Work_Instructions.md",
     "Index.md.md",
     "Test_AutoSync_Griffin.md.md",
     "Test Main.md.md",
     "Test_Sync_File.md.md",
     "Без назви.canvas",
     "Без назви",
-    "instructions/README.md",
-    "banks/banks_README.md",
     "instructions/Index.md",
     "GriffinKnowledgeVault",
     "banks/JP_Morgan.md.md",
