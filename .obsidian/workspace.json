@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Great_Idea_Summary_rus.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -181,16 +181,16 @@
   },
   "active": "4fe83935892dd588",
   "lastOpenFiles": [
-    "README.md",
-    "Great_Idea_Summary_rus.md",
+    "Index.md",
     "Griffin_Architecture_Plan_v1.0_rus.md",
+    "Great_Idea_Summary_rus.md",
+    "README.md",
     "Test_AutoSync_Griffin.md.md",
     "Test Main.md.md",
     "Test_Sync_File.md.md",
     "Без назви.canvas",
     "Без назви",
     "instructions/README.md",
-    "Index.md",
     "banks/banks_README.md",
     "instructions/Index.md",
     "instructions/Griffin_Work_Instructions.md",
