@@ -11,14 +11,10 @@
             "id": "4fe83935892dd588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Great_Idea_Summary_rus.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Great_Idea_Summary_rus"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -166,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +178,14 @@
   },
   "active": "4fe83935892dd588",
   "lastOpenFiles": [
+    "reference/ЕС_Национальные_Банковские_Регуляторы.md",
+    "reference/Нац_Банковские_Регуляторы_Дополненный.md",
     "Index.md",
-    "Griffin_Architecture_Plan_v1.0_rus.md",
     "Great_Idea_Summary_rus.md",
     "README.md",
+    "Griffin_Architecture_Plan_v1.0_rus.md",
+    "instructions/Griffin_Work_Instructions.md",
+    "Index.md.md",
     "Test_AutoSync_Griffin.md.md",
     "Test Main.md.md",
     "Test_Sync_File.md.md",
@@ -193,7 +194,6 @@
     "instructions/README.md",
     "banks/banks_README.md",
     "instructions/Index.md",
-    "instructions/Griffin_Work_Instructions.md",
     "GriffinKnowledgeVault",
     "banks/JP_Morgan.md.md",
     "templates/Bank_Profile.md",
