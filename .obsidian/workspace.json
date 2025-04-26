@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instructions/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "077c1a0795641c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Main.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Main.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Test_Sync_File.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Index"
+              "title": "Зворотні посилання для Test_Sync_File.md"
             }
           },
           {
@@ -150,14 +165,23 @@
               "icon": "lucide-list",
               "title": "Вміст README"
             }
+          },
+          {
+            "id": "0b0886ec145082cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +190,18 @@
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "command-palette:Відкрити меню команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fe83935892dd588",
+  "active": "077c1a0795641c2a",
   "lastOpenFiles": [
+    "README.md",
+    "Test_Sync_File.md.md",
+    "Test Main.md.md",
+    "Без назви.canvas",
+    "Без назви",
+    "instructions/README.md",
     "Index.md",
     "banks/banks_README.md",
     "instructions/Index.md",
