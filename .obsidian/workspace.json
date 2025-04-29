@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "banks/banks_README.md",
+                "file": "regulators/regulators_README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banks_README"
+              "title": "regulators_README"
             }
           }
         ]
@@ -179,8 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1293e66de216968d",
+  "active": "345644a4d64e42d9",
   "lastOpenFiles": [
+    "systems/payment_systems_survey_asia_2025.md",
+    "banks/banking_report_asia_2025.md",
+    "banks/banks_README.md",
+    "regulators/regulators_README.md",
     "regulators/regulators_asia.md",
     "regulators/Regulatory_Analysis.md",
     "regulators/123",
@@ -201,20 +205,16 @@
     "regulators/regulators_asia/regulators_asia_Index.md",
     "regulators/regulators_asia/README.md",
     "regulators/regulators_asia",
-    "regulators/regulators_README.md",
     "regulators",
     "models/README.md",
     "instructions/README.md",
     "instructions/Griffin_Work_Instructions.md",
-    "banks/banks_README.md",
     "Great_Idea_Summary_rus.md",
     "Test.md",
     "Index.md",
     "reference/ЕС_Национальные_Банковские_Регуляторы.md",
     "reference/Нац_Банковские_Регуляторы_Дополненный.md",
     "README.md",
-    "Griffin_Architecture_Plan_v1.0_rus.md",
-    "Index.md.md",
     "Без назви.canvas",
     "Без назви",
     "GriffinKnowledgeVault"
