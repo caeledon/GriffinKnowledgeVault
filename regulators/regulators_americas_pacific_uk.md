@@ -1,4 +1,4 @@
-# Национальные банковские регуляторы (Швейцария, США, Канада, Норвегия, Австралия, Новая Зеландия, Япония)
+# Национальные банковские регуляторы вне ЕС
 
 Опорный гайд для обработки заданий и запросов Лорда Александра.
 
@@ -15,12 +15,7 @@
 | 9  |                   | Federal Deposit Insurance Corporation / Federal Deposit Insurance Corporation | FDIC | [fdic.gov](https://www.fdic.gov/) |
 | 10 | Канада            | Office of the Superintendent of Financial Institutions / Office of the Superintendent of Financial Institutions | OSFI | [osfi-bsif.gc.ca](https://www.osfi-bsif.gc.ca/Eng/Pages/default.aspx) |
 | 11 | Норвегия          | Finanstilsynet / Financial Supervisory Authority of Norway | Finanstilsynet | [finanstilsynet.no](https://www.finanstilsynet.no/en/) |
-| 12 | Республика Корея  | 금융위원회 / Financial Services Commission | Financial Services Commission | FSC | [fsc.go.kr](https://www.fsc.go.kr/eng/) |
-| 13 | Республика Корея  | 금융감독원 / Financial Supervisory Service | Financial Supervisory Service | FSS | [fss.or.kr](https://english.fss.or.kr/fss/eng/index.jsp) |
-| 14 | Сингапур          | Monetary Authority of Singapore | Monetary Authority of Singapore | MAS | [mas.gov.sg](https://www.mas.gov.sg/) |
-| 15 | Гонконг           | 香港金融管理局 / Hong Kong Monetary Authority | Hong Kong Monetary Authority | HKMA | [hkma.gov.hk](https://www.hkma.gov.hk/) |
-| 16 | Макао             | 澳門金融管理局 / Monetary Authority of Macao | Monetary Authority of Macao | AMCM | [amcm.gov.mo](https://www.amcm.gov.mo/) |
-| 17 | Австралия         | Australian Prudential Regulation Authority | Australian Prudential Regulation Authority | APRA | [apra.gov.au](https://www.apra.gov.au/) |
-| 18 | Австралия         | Australian Securities and Investments Commission | Australian Securities and Investments Commission | ASIC | [asic.gov.au](https://asic.gov.au/) |
-| 19 | Новая Зеландия    | Reserve Bank of New Zealand | Reserve Bank of New Zealand | RBNZ | [rbnz.govt.nz](https://www.rbnz.govt.nz/) |
-| 20 | Новая Зеландия    | Financial Markets Authority | Financial Markets Authority | FMA | [fma.govt.nz](https://www.fma.govt.nz/) |
+| 12 | Австралия         | Australian Prudential Regulation Authority | Australian Prudential Regulation Authority | APRA | [apra.gov.au](https://www.apra.gov.au/) |
+| 13 | Австралия         | Australian Securities and Investments Commission | Australian Securities and Investments Commission | ASIC | [asic.gov.au](https://asic.gov.au/) |
+| 14 | Новая Зеландия    | Reserve Bank of New Zealand | Reserve Bank of New Zealand | RBNZ | [rbnz.govt.nz](https://www.rbnz.govt.nz/) |
+| 15 | Новая Зеландия    | Financial Markets Authority | Financial Markets Authority | FMA | [fma.govt.nz](https://www.fma.govt.nz/) |
