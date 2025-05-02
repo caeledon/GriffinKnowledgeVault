@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocols/indexing_protocol.md",
+                "file": "protocols/update_index_readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indexing_protocol"
+              "title": "update_index_readme"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "1293e66de216968d",
   "lastOpenFiles": [
+    "protocols/indexing_protocol.md",
+    "protocols/update_index_readme.md",
     "protocols/api_commands.md",
     "protocols/Без назви.md",
-    "protocols/indexing_protocol.md",
     "banks/test_griffin.md",
     "protocols",
     "regulators/regulators_README.md",
@@ -215,7 +216,6 @@
     "regulators",
     "models/README.md",
     "instructions/README.md",
-    "instructions/Griffin_Work_Instructions.md",
     "Без назви.canvas",
     "GriffinKnowledgeVault"
   ]
